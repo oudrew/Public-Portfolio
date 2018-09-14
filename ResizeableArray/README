@@ -1,1 +1,2 @@
-This code creates a new resizeable array class, meant to function as a typical arraylist. 
+This code creates a new resizeable array class, meant to function as a typical arraylist. It stores eclipses, a custom class also made 
+in this class. It allows for insertion, removal and changing values, and it also implements a binary search and a merge sort
