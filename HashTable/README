@@ -1,1 +1,2 @@
-In this project I create a new HashTable class
+In this project I create a new LinkedHashTable class, in which I create a table with a hashing function that has an embedded linked list.
+I then use the new LinkedHashTable class to store eclipses in and more efficiently search the data
